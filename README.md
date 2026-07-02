@@ -1,0 +1,2 @@
+# AI-Powered-Consumer-Complaint-Routing-Business-Intelligence-Analytics
+Developed an AI-driven consumer complaint triage system using Consumer Financial Protection Bureau (CFPB) complaint data to automate regulatory complaint routing. Leveraged R for data cleaning, feature engineering, and supervised decision tree modeling, and Tableau for exploratory analysis and visualization of 2,000 consumer complaint records.
