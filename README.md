@@ -227,8 +227,6 @@ This project strengthened my experience in:
 ## Authors
 
 **Shraeyas Muthaiah**
-Management Information Systems
-University of Georgia
 
 ---
 
